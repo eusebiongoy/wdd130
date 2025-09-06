@@ -17,6 +17,9 @@ h1{
     margin: 1opx;
     text-align: center;
 }
+h2{
+    border-bottom: 1px solid #222;
+}
 img{
     width: 100%;
     height: auto;
@@ -30,7 +33,7 @@ section{
     font-size: 9rem;
 }
 section p{
-    
+    margin: 10px;
 }
 footer{
 
