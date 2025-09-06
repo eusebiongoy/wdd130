@@ -1,0 +1,17 @@
+nav{
+    background-color: lightblue;
+    padding: 10px;
+}
+nav a {
+    color: aqua;
+    display: block;
+    padding: 15px;
+}
+h1 {
+    color: lightblue;
+}
+img{
+    width: 150px;
+    height: auto;
+    border: 1px
+}
