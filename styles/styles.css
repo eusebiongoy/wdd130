@@ -1,0 +1,9 @@
+nav{
+    background-color: darkblue;
+    padding: 10px;
+}
+a{
+    color: white;
+    display: block;
+    padding: 10px;
+}
