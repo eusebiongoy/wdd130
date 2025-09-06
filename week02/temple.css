@@ -13,5 +13,10 @@ h1 {
 img{
     width: 150px;
     height: auto;
-    border: 1px
+    border: 1px blanchedalmond;
+    padding: 2px;
+    box-shadow: 0 0 30px burlywood;
+}
+p {
+    padding: 10px;
 }
