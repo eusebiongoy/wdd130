@@ -33,6 +33,9 @@ section{
     background-color: #ddd;
     font-size: .9rem;
 }
+section p{
+    margin: 10px;
+}
 footer{
-    
+    font-size: .9rem;
 }
