@@ -1,62 +1,7 @@
 
-body{
-    font-family: Arial, sans-serif;
-    line-height: 1,6;
-}
-header, footer{
+header{
     background-color: #333;
     color: white;
     padding: 10px;
     text-align: center;
-    font-size: 1.5rem;
 }
-main{
-    width: 400px;
-    margin: 0 auto;
-}
-h1{
-    font-size: 18px;
-    margin: 1opx;
-    text-align: center;
-}
-h2{
-    border-bottom: 1px solid #222;
-}
-h2 p{
-    font-size: 16px;
-    font-weight: 100px;
-    font-family: arial,sans-serif;
-    text-shadow: none;
-    text-align: right;
-}
-
-img{
-    width: 100%;
-    height: auto;
-    box-shadow: 0 0 30px #333;
-}
-section{
-    margin: 20px 0;
-    border: 1px solid rgb(0 0 0 / 10%);
-    padding: 10px;
-    background-color: #ddd;
-    font-size: 9rem;
-}
-section p{
-    margin: 10px;
-    text-box: 200px;
-    text-align: center;
-}
-ul{
-    margin: 10px 20px 30px;
-    text-box: 30px;
-    text-align: center;
-}
-ul li{
-    font-family: arial, sans-serif;
-    font-size: 9rem;
-}
-footer{
-    font-size: .9rem;
-    text-align: center;
-} 
