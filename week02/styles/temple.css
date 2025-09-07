@@ -52,6 +52,10 @@ ul{
     text-box: 30px;
     text-align: center;
 }
+ul li{
+    font-family: arial, sans-serif;
+    font-size: 9rem;
+}
 footer{
     font-size: .9rem;
     text-align: center;
