@@ -23,3 +23,9 @@ img{
     align-items: center;
     box-shadow: 0 0 30 #333;
 }
+section{
+    margin: 20px 0 ;
+    border: 1px rgb(0 0 0 /10%) ;
+    padding: 10px;
+    background-color: #ddd;
+}
