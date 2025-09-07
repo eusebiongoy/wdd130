@@ -32,10 +32,10 @@ p {
     padding: 0;
 }
 aside{
-    width: 20rem;
-    margin: 1rem;
+    width: 20em;
+    margin: 1em;
     border: 1px solid rgb(0 0 0 / 0.2);
-    padding: 1rem;
+    padding: 1em;
     background: #eee;
     color: #333;
     text-align: center;
