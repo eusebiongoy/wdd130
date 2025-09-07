@@ -42,10 +42,13 @@ section{
 }
 section p{
     margin: 10px;
+    text-box: 200px;
+    text-align: center;
 }
 ul{
     margin: 10px 20px 30px;
-    text-size-adjust: 10px;
+    text-box: 30px;
+    text-align: center;
 }
 footer{
     font-size: .9rem;
