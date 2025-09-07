@@ -2,7 +2,7 @@ body{
     font-family: arial, sans-serif;
     line-height: 1.6rem;
 }
-header{
+header, footer{
     background-color: #333;
     color: white;
     padding: 10px;
@@ -16,6 +16,9 @@ main{
 h1{
     margin: 10px;
     text-align: center;
+}
+h2{
+    border-bottom: 1px solid #222;
 }
 
 img{
