@@ -11,6 +11,9 @@ nav a {
 h1 {
     color: darkblue;
 }
+main{
+    max-width: 840px;
+}
 main img{
     width: 150px;
     height: auto;
@@ -35,7 +38,6 @@ aside{
     padding: 1rem;
     background: #eee;
     color: #333;
-    text-align: center;
 }
 aside img{
     width: 200px;
