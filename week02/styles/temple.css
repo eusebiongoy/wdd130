@@ -15,6 +15,7 @@ main{
     margin: 0 auto;
 }
 h1{
+    font-size: 18px;
     margin: 1opx;
     text-align: center;
 }
@@ -28,6 +29,7 @@ h2 p{
     text-shadow: none;
     text-align: right;
 }
+
 img{
     width: 100%;
     height: auto;
