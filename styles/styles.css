@@ -16,7 +16,7 @@ nav a {
     padding: var(--padding);
 }
 h1 {
-    color: snow;
+    color: lightblue;
 }
 main{
     max-width: 840px;
