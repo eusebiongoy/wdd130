@@ -6,15 +6,16 @@
 }
 nav{
     background-color:lightblue;
-    padding: 1 rem;
+    padding: 10px;
 }
 nav a {
     color: white;
+    padding: 10px;
     display: block;
-    padding: 1rem;
 }
 h1 {
     color: lightblue;
+    padding: 5rem;
 }
 main{
     max-width: 840px;
