@@ -30,12 +30,7 @@ main img{
     float: right;
 }
 aside{
-    width: 20rem;
-    margin: 1rem;
-    border: 1px solid rgba(0 0 0 / 0.2);
-    padding: 1rem;
-    background-color:lightblue ;
-    color: gray;
+    width: 20em;
     text-align: center;
 }
 
@@ -44,6 +39,11 @@ aside h2{
     top: 20px;
     left: 50px;
 }
+aside img{
+    width: 200px;
+    height: auto;
+}
+
 img {
     width: 150px;
     height: auto;
@@ -55,10 +55,7 @@ p {
     padding: 1 rem;
 }
 
-aside img{
-    width: 200px;
-    height: auto;
-}
+
 
 footer{
     margin-top: 1em;
