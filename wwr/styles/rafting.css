@@ -9,9 +9,17 @@
     --accent1-color:#264653;
     --accent2-color:#e9c46a;
     --heading-font:"Times New Roman", "Georgia", serif;
-    --body-font-size:Arial, Helvetica, sans-serif;
+    --body-font:Arial, Helvetica, sans-serif;
 }
 header{
     background-color: var(--primary-color);
     color: var(--accent2-color);
+}
+body{
+    font-family:var(--body-font);
+    color: var(--accent1-color);
+}
+header, main, footer{
+    width: 840px;
+    margin: 0 auto;
 }
