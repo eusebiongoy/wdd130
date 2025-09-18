@@ -10,3 +10,12 @@ header{
     background-color: var(--primary-color);
     color: var(--accent2-color);
 }
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: var(--body-font);
+    color: var(--accent1-color);
+}
