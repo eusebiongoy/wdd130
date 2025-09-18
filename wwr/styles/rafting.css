@@ -20,7 +20,7 @@ body{
     color: var(--accent1-color);
 }
 header, main{
-    width: 840px;
+    width: 600px;
     margin:0 auto ;
 }
 footer{
