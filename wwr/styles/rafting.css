@@ -4,9 +4,14 @@
     --accent1-color: steelblue;
     --accent2-color: #eee;
     --heading-font:"Times New Roman", "Georgia", serif;
+    --body-font:Arial, Helvetica, sans-serif;
 }
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+body{
+    font-family: var(--body-font);
+    color:var(--accent1-color);
 }
