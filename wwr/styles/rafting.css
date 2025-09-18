@@ -6,3 +6,7 @@
     --heading-font:"Times New Roman", "Georgia", Serif;
     --body-font:Arial, Helvetica, Sans-serif;
 }
+header{
+    background-color: var(--primary-color);
+    color: var(--accent2-color);
+}
