@@ -28,6 +28,10 @@ nav a {
     font-weight: 700;
     color: #fff;
 }
+header, .grid, footer{
+    display: grid;
+    grid-template-columns: auto;
+}
 h1 {
     color: lightblue;
     padding: 5rem;
