@@ -77,6 +77,11 @@ aside h2{
     top: 85px;
     left: 125px;
 }
+*{
+    margin: 0;
+    padding: o;
+    box-sizing: border-box;
+}
 
 img {
     width: 150px;
