@@ -64,8 +64,8 @@ main img{
 aside{
     width: 20em;
     position: relative;
-    grid-column: 2/3;
-    grid-row: 1/2;
+    grid-column: 1;
+    grid-row: 1;
 }
 aside img{
     width: 200px;
