@@ -7,14 +7,16 @@
 body{
     font-size: 16px;
     font-family: Arial, Helvetica, sans-serif;
-}header, .grid, footer{
-    max-width: 840px;
-    margin: auto;
 }
 .grid{
     display: grid;
     align-items: center;
 }
+header, .grid, footer{
+    max-width: 840px;
+    margin: auto;
+}
+
 
 nav{
     background-color:steelblue;
