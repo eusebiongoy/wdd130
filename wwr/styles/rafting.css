@@ -19,6 +19,10 @@ header{
     display: flex;
     justify-content: flex-start;
 }
+.ul{
+    display: flex;
+    justify-content:flex-end ;
+}
 header, main, footer{
     width: 840px;
     margin:0 auto;
