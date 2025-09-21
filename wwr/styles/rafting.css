@@ -21,7 +21,8 @@ header{
 }
 .ul{
     display: flex;
-    justify-content:flex-end ;
+    flex-direction: row;
+    align-items: center;
 }
 header, main, footer{
     width: 840px;
