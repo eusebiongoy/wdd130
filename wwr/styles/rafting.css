@@ -17,7 +17,7 @@ body{
 }
 header{
     display: flex;
-    justify-content: flex-start;
+    justify-content: flex-end;
 }
 div{
     display: flex;
