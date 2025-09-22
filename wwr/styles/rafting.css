@@ -71,7 +71,7 @@ h1{
 footer{
     background-color: aliceblue;
     color:blue;
-    padding: 20px;
+    padding: 10px 0;
     text-align: justify;
 }
 .footer-content{
@@ -81,5 +81,4 @@ footer{
     align-content: center;
     width: 60%;
     margin: auto;
-
 }
