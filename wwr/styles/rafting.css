@@ -88,9 +88,14 @@ footer{
 footer .socialmedia{
     background-color: slategray;
 }
+
 .row .socialmedia img{
     display: inline-block;
     color:rgb(4, 4, 26);
     font-size: 20px;
     margin: 0;
+}
+.socialmedia{
+    display: flex;
+    justify-items: right;
 }
