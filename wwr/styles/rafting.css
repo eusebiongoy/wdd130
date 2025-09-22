@@ -71,7 +71,7 @@ h1{
 h2 .row{
 display: flex;
 justify-content: space-around;
-padding: 40% 100%;
+padding: 100% 100%;
 }
 footer, p, .socialmedia {
     background-color: aliceblue;
@@ -86,4 +86,12 @@ footer, p, .socialmedia {
     align-content: center;
     width: 60%;
     margin: auto;
+}
+footer{
+    display: flex;
+    justify-items: auto;
+}
+footer, .class{
+    display: flex;
+    align-items: center;
 }
