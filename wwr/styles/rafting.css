@@ -24,10 +24,6 @@ header, main, footer{
     width: 840px;
     margin:0 auto;
 }
-header{
-    display: grid;
-    grid-template-columns: 50px 50px 50px 50px;
-}
 
 h1, h2{
     font-family: var(--heading-font);
@@ -36,10 +32,6 @@ h1, h2{
 nav, p, section, article{
     margin: 16px;
     padding:8px;
-}
-nav{
-    display: flex;
-    flex-direction: row;
 }
 .socialmedia a{
     text-decoration: none;
