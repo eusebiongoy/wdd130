@@ -10,6 +10,10 @@ header{
     background-color: var(--primary-color);
     color: var(--accent2-color);
 }
+header{
+    display: grid;
+    grid-template-columns: auto;
+}
 *{
     margin: 0;
     padding: 0;
@@ -41,7 +45,10 @@ nav, p, section, article{
     margin: 16px;
     padding:8px;
 }
-
+nav{
+    display: flex;
+    justify-content: center;
+}
 .socialmedia a{
     text-decoration: none;
 }
