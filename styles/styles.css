@@ -21,9 +21,10 @@ header, .grid, footer{
 nav{
     background-color:steelblue;
     padding: 1rem;
+}
+.flex{
     display: flex;
     align-items: center;
-    justify-content: space-evenly;
 
 }
 nav a {
