@@ -68,3 +68,7 @@ h1{
     float:right;
     width:125px;
 }
+footer{
+    display: grid;
+    align-content: center;
+}
