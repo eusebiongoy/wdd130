@@ -6,6 +6,10 @@
     --heading-font:"Times New Roman", "Georgia", serif;
     --body-font:Arial, Helvetica, sans-serif;
 }
+header{
+    background-color: var(--primary-color);
+    color: var(--accent2-color);
+}
 *{
     margin: 0;
     padding: 0;
@@ -27,10 +31,6 @@ header img, nav{
 header, main, footer{
     width: 840px;
     margin:0 auto;
-}
-section{
-    display: grid;
-    justify-content: space-around;
 }
 
 h1, h2{
