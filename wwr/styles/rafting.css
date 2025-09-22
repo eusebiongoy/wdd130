@@ -82,9 +82,9 @@ footer{
 footer .socialmedia{
     background-color: blue;
 }
-.row .socialmedia i{
+.row .socialmedia img{
     display: inline-block;
-    color:blue;
+    color:rgb(4, 4, 26);
     font-size: 20px;
     margin: 0 15;
     transition: 0.5;
