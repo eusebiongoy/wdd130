@@ -73,22 +73,15 @@ display: flex;
 justify-content: space-around;
 padding: 100% 100%;
 }
-footer, p, .socialmedia {
-    background-color: aliceblue;
-    color:blue;
-    padding: 10px 0;
-    text-align: justify;
-}
-.row{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    align-content: center;
-    width: 60%;
-    margin: auto;
-}
 footer{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+footer .socialmedia{
+    background-color: aliceblue;
+}
+.row{
+
 }
