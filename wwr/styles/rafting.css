@@ -79,6 +79,11 @@ display: flex;
 justify-content: space-around;
 padding: 100% 100%;
 }
+h2{
+    display: grid;
+    grid-template-columns: auto;
+    
+}
 footer{
     padding: 0;
     margin: 0;
