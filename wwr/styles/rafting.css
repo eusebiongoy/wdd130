@@ -74,7 +74,7 @@ footer .socialmedia {
     padding: 10px 0;
     text-align: justify;
 }
-.footer-content{
+.row{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
