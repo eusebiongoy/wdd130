@@ -89,7 +89,7 @@ footer, p, .socialmedia {
 }
 footer{
     display: flex;
-    justify-items: auto;
+    justify-content: center;
 }
 footer, .class{
     display: flex;
