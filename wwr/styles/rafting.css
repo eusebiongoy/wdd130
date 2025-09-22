@@ -82,8 +82,10 @@ footer{
 footer .socialmedia{
     background-color: blue;
 }
-.row{
-    display: flex;
-    justify-content: space-between;
-    padding: 40px 100px;
+.row .socialmedia i{
+    display: inline-block;
+    color:blue;
+    font-size: 20px;
+    margin: 0 15;
+    transition: 0.5;
 }
