@@ -33,6 +33,10 @@ nav, p, section, article{
     margin: 16px;
     padding:8px;
 }
+nav{
+    display: flex;
+    align-items: center;
+}
 .socialmedia a{
     text-decoration: none;
 }
