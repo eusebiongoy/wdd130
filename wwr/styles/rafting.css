@@ -68,6 +68,11 @@ h1{
     float:right;
     width:125px;
 }
+h2 .row{
+display: flex;
+justify-content: space-around;
+padding: 40% 100%;
+}
 footer, p, .socialmedia {
     background-color: aliceblue;
     color:blue;
