@@ -83,5 +83,7 @@ footer .socialmedia{
     background-color: aliceblue;
 }
 .row{
-
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 100px;
 }
