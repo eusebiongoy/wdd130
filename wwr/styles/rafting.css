@@ -87,7 +87,7 @@ footer{
     font-family: 'Times New Roman', Times, serif;
 }
 footer .socialmedia{
-    background-color: none;
+    background-color: slategray;
 }
 .row .socialmedia img{
     display: inline-block;
