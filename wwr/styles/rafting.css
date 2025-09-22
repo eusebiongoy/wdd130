@@ -19,6 +19,10 @@ body{
     display: grid;
     align-items: center;
 }
+header img, nav{
+    display: flex;
+    align-items: flex-start;
+}
 
 header, main, footer{
     width: 840px;
@@ -33,10 +37,7 @@ nav, p, section, article{
     margin: 16px;
     padding:8px;
 }
-nav{
-    display: flex;
-    align-items: center;
-}
+
 .socialmedia a{
     text-decoration: none;
 }
