@@ -32,28 +32,24 @@ main img{
     padding: 2px;
     box-shadow: 0 0 0 30px #eee;
     float: right;
+    margin: 0 0 1rem 1rem;
 }
 aside{
     width: 20em;
-    margin: 1rem;
-    border: 1px solid rgba(0 0 0 0.2);
-    padding: 1em;
-    background-color: #eee;
-    color: #333;
     text-align: center;
+    position: relative;
 }
 aside img{
     width: 200px;
     height: auto;
 }
-p{
-    padding: 0;
-}
-
 aside h2{
     position: absolute;
-    top: 47px;
-    left: 150px;
+    top: 50px;
+    left: 200px;
+}
+p{
+    padding: 0;
 }
 
 footer{
