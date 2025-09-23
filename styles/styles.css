@@ -88,3 +88,7 @@ footer{
     background-color:lightblue;
     color: #000;
 }
+aside{
+    width: 20em;
+    text-align: center;
+}
