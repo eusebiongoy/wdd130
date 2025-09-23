@@ -53,5 +53,8 @@ h1{
     position: absolute;
     width: 125;
     float: right;
+    border: gold;
+    margin: 0;
+    box-shadow: #264653;
 
 }
