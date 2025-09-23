@@ -50,6 +50,7 @@ main img{
     border: 1px solid steelblue;
     padding: 2px;
     box-shadow: 0 0 0 30px #eee;
+    float: right;
 }
 aside{
     width: 20em;
@@ -70,8 +71,8 @@ p{
 
 aside h2{
     position: absolute;
-    top: 85px;
-    left: 125px;
+    top: 47px;
+    left: 150px;
 }
 
 footer{
