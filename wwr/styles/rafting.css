@@ -20,6 +20,11 @@ header, main, footer{
     width: 840px;
     margin: 0 auto;
 }
+.grid{
+    background-color: aquamarine;
+    display: grid;
+    place-items: center;
+}
 
 h1, h2{
     font-family: var(--heading-font);
