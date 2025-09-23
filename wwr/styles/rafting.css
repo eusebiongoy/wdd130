@@ -35,9 +35,8 @@ nav, p, section, article{
 }
 .hero img{
     display: block;
-    width: 125px;
+    width: 800px;
     height: auto;
-    float: right;
 }
 
 h1{
@@ -50,6 +49,9 @@ h1{
     background-color: var(--accent1-color);
     color: #fff;
 }
-article{
+.hero article img{
     position: absolute;
+    width: 125;
+    float: right;
+
 }
