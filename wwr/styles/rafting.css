@@ -51,7 +51,8 @@ h1{
 }
 article img{
     position: absolute;
-    width: 125;
+    width: 125px;
+    height: 125px;
     float: right;
     border: gold;
     margin: 0;
