@@ -20,23 +20,18 @@ header, .grid, footer{
 
 nav{
     background-color:steelblue;
-    padding: 1rem;
+    padding: 10px;
 }
 
 nav a {
 
-    display:block;
-    padding: 0.5rem;
-    text-decoration: none;
-    font-size: 1.2rem;
-    font-weight: 700;
-    color: #fff;
+    color: white;
+    padding: 10px;
+    display: block;
 }
 
 h1 {
     color: lightblue;
-    padding: 5rem;
-    border-bottom: greenyellow;
 }
 .grid{
     display: grid;
@@ -54,14 +49,15 @@ main img{
     border: 1px solid steelblue;
     padding: 2px;
     box-shadow: 0 0 0 30px #eee;
-    float: right;
-    margin:0 0 1rem 1rem ;
 }
 aside{
     width: 20em;
-    position: relative;
-    grid-column: 1/2;
-    grid-row: 1/2;
+    margin: 1rem;
+    border: 1px solid rgba(0 0 0 0.2);
+    padding: 1em;
+    background-color: #eee;
+    color: #333;
+    text-align: center;
 }
 aside img{
     width: 200px;
@@ -73,11 +69,6 @@ aside h2{
     top: 85px;
     left: 125px;
 }
-*{
-    margin: 0;
-    padding: o;
-    box-sizing: border-box;
-}
 
 img {
     width: 150px;
@@ -87,7 +78,7 @@ img {
     box-shadow: 0 0 30px gray;
 }
 p {
-    padding: 1 rem;
+    padding: 0;
 }
 
 
@@ -104,8 +95,4 @@ footer{
     padding: 1rem;
     background-color:lightblue;
     color: #000;
-}
-aside{
-    width: 20em;
-    text-align: center;
 }
