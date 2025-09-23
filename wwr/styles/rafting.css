@@ -6,7 +6,7 @@
     --heading-font:"Times New Roman", "Georgia", serif;
     --body-font:Arial, Helvetica, sans-serif;
 }
-header{
+header, footer{
     display: grid;
     align-items: flex-start;
     background-color: var(--accent2-color);
