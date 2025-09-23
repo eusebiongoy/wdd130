@@ -70,18 +70,9 @@ aside h2{
     left: 125px;
 }
 
-img {
-    width: 150px;
-    height: auto;
-    border: 1px solid black;
-    padding: 2px;
-    box-shadow: 0 0 30px gray;
-}
 p {
     padding: 0;
 }
-
-
 
 footer{
     margin-top: 1em;
@@ -93,6 +84,7 @@ footer{
     margin: 1rem;
     border: 1px solid rgb(0 0 0 /0.1);
     padding: 1rem;
+    text-align: center;
     background-color:lightblue;
     color: #000;
 }
