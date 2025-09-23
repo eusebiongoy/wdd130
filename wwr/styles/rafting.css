@@ -6,12 +6,6 @@
     --heading-font:"Times New Roman", "Georgia", serif;
     --body-font:Arial, Helvetica, sans-serif;
 }
-header, footer{
-    display: grid;
-    align-items: flex-start;
-    background-color: var(--accent2-color);
-    color: var(--accent1-color);
-}
 
 *{
     margin: 0;
@@ -22,18 +16,9 @@ body{
     font-family: var(--body-font);
     color:var(--accent1-color);
 }
-.grid{
-    display: grid;
-    align-items: center;
-}
-header img, nav{
-    display: flex;
-    align-items: start;
-}
-
 header, main, footer{
     width: 840px;
-    margin:0 auto;
+    margin: 0 auto;
 }
 
 h1, h2{
