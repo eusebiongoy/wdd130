@@ -25,7 +25,8 @@ nav{
 
 nav a {
 
-    display: block;
+    display: grid;
+    grid-template-columns: 100px 100px 100px 100px 100px;
     padding: 0.5rem;
     text-decoration: none;
     font-size: 1.2rem;
