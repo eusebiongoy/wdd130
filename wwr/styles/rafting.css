@@ -28,7 +28,7 @@ body{
 }
 header img, nav{
     display: flex;
-    align-items: center;
+    align-items: start;
 }
 
 header, main, footer{
