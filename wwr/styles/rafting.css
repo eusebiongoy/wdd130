@@ -50,10 +50,11 @@ h1{
     color: #fff;
 }
 .hero article img{
-    position: absolute;
     width: 125px;
     height: 125px;
+    border: 1px solid skyblue;
     float: right;
-    border: gold;
-    margin: 0;
+    padding: 2px;
+    box-shadow: 0 0 0 20px  #fff;
+    margin: 0 0 1rem 1rem;
 }
