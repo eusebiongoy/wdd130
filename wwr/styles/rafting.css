@@ -49,7 +49,7 @@ h1{
     background-color: var(--accent1-color);
     color: #fff;
 }
-.img{
+.hero article img{
     position: absolute;
     width: 125px;
     height: 125px;
