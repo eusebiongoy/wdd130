@@ -19,7 +19,7 @@ header,main, footer{
     width: 840px;
     margin: 0 auto;
 }
-header{
+header img{
     display: grid;
     align-content: space-around;
     box-shadow: #fff;
