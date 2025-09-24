@@ -67,6 +67,14 @@ nav{
     justify-content: space-around;
     align-items: center;
 }
+header, img, nav{
+    background-color:rgb(38 70 83) ;
+    color:aliceblue;
+    padding: 20px;
+    text-align: justify;
+    box-shadow: 0 2px 4px black;
+    margin-bottom: 10px;
+}
 .col p{
     color: black;
 }
