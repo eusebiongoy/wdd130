@@ -75,7 +75,14 @@ header, img, nav{
     box-shadow: 0 2px 4px black;
     margin-bottom: 10px;
 }
-
+figure img{
+    width: max-content;
+    height: max-content;
+    border: 1px solid seashell;
+    padding: 2px;
+    display: flex;
+    justify-content: space-around;
+}
 .col p{
     color: black;
 }
@@ -84,4 +91,3 @@ header, img, nav{
     height: 40px;
     padding: 2px;
     float: left;   
-}
