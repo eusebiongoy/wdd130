@@ -58,6 +58,13 @@ h1{
     box-shadow: 0 0 0 20px  #fff;
     margin: 0 0 1rem 1rem;
 }
-.col p, a{
-    
+.col p{
+    color: black;
+}
+.row .socialmedia a{
+    display: inline-block;
+    color: none;
+    font-size: 20px;
+    margin: 0 15px;
+
 }
