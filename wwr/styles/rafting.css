@@ -58,3 +58,8 @@ h1{
     box-shadow: 0 0 0 20px  #fff;
     margin: 0 0 1rem 1rem;
 }
+.socialmedia a{
+    float:right;
+    padding: 2px;
+    margin: 0 0 1rem 1rem;
+}
