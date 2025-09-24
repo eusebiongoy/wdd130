@@ -20,8 +20,9 @@ header,main, footer{
     margin: 0 auto;
 }
 header img{
-    display: grid;
-    align-content: space-around;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
     box-shadow: #fff;
     padding: 20px;
 }
