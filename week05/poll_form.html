@@ -10,19 +10,7 @@
 
 <body>
     <header></header>
-    <div class="form-item">
-        <label for="fullname">Fullname</label>
-        <input type="text" id="fullname" name="fullname">
-    </div>
-    <div class="form-item column1"></div>
-    <div class="form-item column 2">
-        <label for="fullname">Fullname</label>
-        <input type="text" id="fullname" name="fullname">
-    </div>
-    <div class="form-item column2">
-        <label for="useremail">>Email:</label>
-        <input type="email" id="username" name="useremail">
-    </div>
+
     <main>
         <form>
 
@@ -33,8 +21,20 @@
                 <input type="text" id="fullname" name="fullname">
                 <label for="useremail">Email:</label>
                 <input type="email" id="useremail" name="useremail">
-
             </fieldset>
+            <div class="form-item">
+                <label for="fullname">Fullname</label>
+                <input type="text" id="fullname" name="fullname">
+            </div>
+            <div class="form-item column 2">
+                <label for="fullname">Fullname</label>
+                <input type="text" id="fullname" name="fullname">
+            </div>
+            <div class="form-item column2">
+                <label for="useremail">>Email:</label>
+                <input type="email" id="username" name="useremail">
+            </div>
+
             <fieldset>
                 <legend>Questions </legend>
                 <label for="browser"> What is your favorite internet browser?</label>
@@ -46,11 +46,15 @@
                     <option value="brave">Brave</option>
                     <option value="other">Other</option>
                 </select>
+                <div class="form-item column1">
+                    <label for="select">Select:</label>
+                </div>
                 <label for="pet">Do you have a household pet?</label>
                 <input type="checkbox" id="pet" name="pet">
                 <label for="feedback">List the places you lived:</label>
                 <textarea id="feedback" name="feedback" rows="4"
                     placeholder="Stillwater Florida, Amsterdam Netherland, Tibuktu Mali, "></textarea>
+                <div class="checkbox">>
             </fieldset>
             <button type="submit">Submit Poll</button>
         </form>
