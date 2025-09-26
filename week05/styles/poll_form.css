@@ -35,3 +35,10 @@ fieldset{
     border: 1px solid rgb(0 0 0 /0.2);
     padding: 1rem;
 }
+legend{
+
+    padding: 0.5rem;
+    color: navy;
+    font-size: 1.3em;
+}
+labe
