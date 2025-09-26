@@ -5,7 +5,6 @@
 }
 main{
     max-width: 500px;
-    
     background-color:gray ;
     color: #fff;
 }
@@ -18,10 +17,10 @@ form{
     background-color: #ddd;
     color: #111;
 }
-
 code{
     display: block;
     background: #000;
+    color:#fff;
 }
 
 .box{
