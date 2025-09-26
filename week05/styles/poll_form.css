@@ -41,4 +41,6 @@ legend{
     color: navy;
     font-size: 1.3em;
 }
-labe
+label, input, button, select, textarea{
+    font-family: Arial, Helvetica, sans-serif;
+}
