@@ -21,6 +21,7 @@ form{
 
 input, textarea, select{
     padding: .75rem;
+    width: 350px;
 }
 code{
     display: block;
