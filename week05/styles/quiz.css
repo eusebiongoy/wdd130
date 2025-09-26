@@ -19,9 +19,15 @@ form{
 }
 
 
-input, textarea, select{
+input, textarea, select, button{
     padding: .75rem;
     width: 350px;
+}
+button{
+    background-color: navy;
+    color: #fff;
+    margin: 0 auto;
+    display:block;
 }
 code{
     display: block;
