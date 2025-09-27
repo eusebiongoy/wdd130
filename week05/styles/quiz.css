@@ -13,7 +13,8 @@ h1{
     margin: 1rem;
 }
 form{
-    
+    margin: 1rem;
+    padding: 1rem;
     background-color: #ddd;
     color: #111;
 }
@@ -48,7 +49,7 @@ code{
     border:none;
 }
 footer{
-     margin: 1rem auto 0;
+    margin: 1rem auto 0;
     width: 650px;
     text-align: left;
     font-size: 0.8em;
