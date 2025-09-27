@@ -23,7 +23,6 @@ header img{
     display: flex;
     align-items: center;
     justify-content: space-around;
-    box-shadow: #fff;
     padding: 20px;
 }
 h1, h2{
