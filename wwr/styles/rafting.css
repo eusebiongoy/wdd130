@@ -37,7 +37,7 @@ nav, p, section, article{
     text-decoration: none;
 }
 .hero{
-    position: absolute;
+    position: relative;
 }
 .hero img{
     display: block;
