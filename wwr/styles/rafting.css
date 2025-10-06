@@ -48,8 +48,8 @@ nav, p, section, article{
 .newsletter-container{
     padding:20px;
     width: 100%;
-    background-color: rgb(168, 168, 157);
-    border: 1px solid lightblue;
+    background-color: lightblue;
+    border: 1px solid bisque;
     border-radius: 5px;
     text-align: justify;
 }
