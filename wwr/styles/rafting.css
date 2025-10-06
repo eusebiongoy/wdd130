@@ -47,6 +47,7 @@ nav, p, section, article{
 }
 .newsletter-container{
     padding:20px;
+    width: 100%;
     background-color: rgb(168, 168, 157);
     border: 1px solid #5e4747;
     border-radius: 5px;
