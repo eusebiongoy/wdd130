@@ -46,6 +46,7 @@ nav, p, section, article{
     height: auto;
 }
 .newsletter-container{
+    position: relative;
     width: 40%;
     background-color: lightblue;
     color: bisque;
