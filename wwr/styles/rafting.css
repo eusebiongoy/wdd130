@@ -49,7 +49,7 @@ nav, p, section, article{
     padding:20px;
     width: 100%;
     background-color: rgb(168, 168, 157);
-    border: 1px solid #5e4747;
+    border: 1px solid lightblue;
     border-radius: 5px;
     text-align: justify;
 }
