@@ -29,7 +29,15 @@ h1, h2{
     font-family: var(--heading-font);
     color:var(--primary-color)
 }
-
+form{
+    width: 650px;
+    margin: 0 auto;
+    padding: 1rem;
+    border: 1px solid rgb(0 0 0 /0.1);
+    border-radius: 0.5rem;
+    background-color: #eee;
+    display: grid;
+}
 nav, p, section, article{
     margin: 16px;
     padding: 8px;
