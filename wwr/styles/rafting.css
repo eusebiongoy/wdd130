@@ -52,6 +52,9 @@ nav, p, section, article{
     border-radius: 5px;
     text-align: justify;
 }
+.figure{
+    display: grid;
+}
 
 h1{
     position: absolute;
