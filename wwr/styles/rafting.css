@@ -47,10 +47,10 @@ nav, p, section, article{
 }
 .newsletter-container{
     position:absolute;
-    width: 95%
+    width: 95%;
     background-color: lightblue;
     color: bisque;
-    text-align: center;
+    text-align: justify;
 }
 .figure{
     display: grid;
