@@ -45,6 +45,10 @@ nav, p, section, article{
     width: 800px;
     height: auto;
 }
+iframe{
+    position: relative;
+    padding:10px;
+}
 .newsletter-container{
     position: relative;
     width: 95%;
