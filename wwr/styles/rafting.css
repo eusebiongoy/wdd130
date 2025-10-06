@@ -108,8 +108,7 @@ caption {
     font-style: italic;
 }
 
-thead,
-tfoot {
+thead {
     background-color: rgb(228 240 245);
 }
 
