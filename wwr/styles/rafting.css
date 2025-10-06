@@ -46,12 +46,13 @@ nav, p, section, article{
     height: auto;
 }
 .newsletter-container{
-    padding: 18px;
-    width: 100%;
+    position:relative;
+    top: 10px;
+    width: 95%;
+    opacity: 0,7;
     background-color: lightblue;
-    border: 1px solid bisque;
-    border-radius: 5px;
-    text-align: justify;
+    color: bisque;
+    text-align: center;
 }
 .figure{
     display: grid;
