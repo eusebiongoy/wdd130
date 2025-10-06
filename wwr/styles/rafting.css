@@ -29,6 +29,7 @@ h1, h2{
     font-family: var(--heading-font);
     color:var(--primary-color)
 }
+
 nav, p, section, article{
     margin: 16px;
     padding: 8px;
@@ -43,6 +44,10 @@ nav, p, section, article{
     display: block;
     width: 800px;
     height: auto;
+}
+.newsletter-container{
+    padding:20px;
+    background-color: rgb(168, 168, 157);
 }
 
 h1{
